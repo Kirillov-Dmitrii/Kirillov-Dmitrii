@@ -1,10 +1,10 @@
-## Hi👋, I'm Dmitrii
+## Привет👋, меня зовут Дмитрий!
 # Ｊａｖａ－ｄｅｖｅｌｏｐｅｒ
 
-
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillov-dmitrii)](https://github.com/kirillov-dmitrii/github-readme-stats)
-
-- 🌱 Me in LeetCode https://leetcode.com/Kirillov-Dmitrii/
-- 📫 How to reach me: kirillovdmitrii_at@mail.ru
+- 🌱 Я на leetcode:</br>
+    https://leetcode.com/Kirillov-Dmitrii/
+- 📫 здесь вы можете связаться со мной:</br>
+    kirillovdmitrii_at@mail.ru </br>
+    https://t.me/UralDmi
 
 
